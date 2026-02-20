@@ -15,7 +15,7 @@ title: Niclas Hüttemann
 I am a researcher working on ...
 
 ## Publications
-Coming soon.
+See my full list here: [Publications](/publications)
 
 ## Contact
 Email: niclas.huettemann@phil.tu-chemnitz.de  
