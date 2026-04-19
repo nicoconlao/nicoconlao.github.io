@@ -9,7 +9,7 @@
 
 - \* **Hüttemann, Niclas** and Eric Linhart (2026).  
   *Lobbying for Corporate Due Diligence: Interest Group Positions on the German Supply Chain Act.*  
-  _Journal of Civil Society_. , 22(1), 71–85.
+  _Journal of Civil Society_, 22(1), 71–85.
   [https://doi.org/10.1080/17448689.2025.2570314 ](https://doi.org/10.1080/17448689.2025.2570314 )
 
 - \* **Hüttemann, Niclas** and Eric Linhart (2025).  
