@@ -4,7 +4,7 @@
 
 - **Hüttemann, Niclas** and Eric Linhart (2026).  
   Interessenvermittlung in den Ausschüssen des 19. Deutschen Bundestages (2017 bis 2021): Interessenartikulation in Zeiten von Normalität und Pandemie.  
-  _Zeitschrift für Parlamentsfragen_, 57(1), n.N..  
+  _Zeitschrift für Parlamentsfragen_, 57(1), 43-64.  
  
 
 - \* **Hüttemann, Niclas** and Eric Linhart (2026).  
