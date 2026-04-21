@@ -4,8 +4,9 @@
 
 - **Hüttemann, Niclas** and Eric Linhart (2026).  
   Interessenvermittlung in den Ausschüssen des 19. Deutschen Bundestages (2017 bis 2021): Interessenartikulation in Zeiten von Normalität und Pandemie.  
-  _Zeitschrift für Parlamentsfragen_, 57(1), 43-64.  
- 
+  _Zeitschrift für Parlamentsfragen_, 57(1), 43–64.
+  
+ [https://doi.org/10.5771/0340-1758-2026-1-43](https://doi.org/10.5771/0340-1758-2026-1-43)
 
 - \* **Hüttemann, Niclas** and Eric Linhart (2026).  
   *Lobbying for Corporate Due Diligence: Interest Group Positions on the German Supply Chain Act.*  
