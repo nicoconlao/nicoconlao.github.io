@@ -2,34 +2,33 @@
 ## Publications
 (* peer-reviewed articles)
 
-- **Hüttemann, Niclas** (2026). *Institutionalizing International Forums: The Increasing Role of G7 and G20 Engagement Groups* _Global Society_ (Online First).
+\* **Hüttemann, Niclas** (2026). *Institutionalizing International Forums: The Increasing Role of G7 and G20 Engagement Groups*
+  _Global Society_ (Online First).
+  [https://doi.org/10.1080/13600826.2026.2686231](https://doi.org/10.1080/13600826.2026.2686231)
 
-.[https://doi.org/10.1080/13600826.2026.2686231](https://doi.org/10.1080/13600826.2026.2686231)
-
-- **Hüttemann, Niclas** and Eric Linhart (2026).  
+ **Hüttemann, Niclas** and Eric Linhart (2026).  
   *Interessenvermittlung in den Ausschüssen des 19. Deutschen Bundestages (2017 bis 2021): Interessenartikulation in Zeiten von Normalität und Pandemie.*  
   _Zeitschrift für Parlamentsfragen_, 57(1), 43–64.
-  
-[https://doi.org/10.5771/0340-1758-2026-1-43](https://doi.org/10.5771/0340-1758-2026-1-43)
+  [https://doi.org/10.5771/0340-1758-2026-1-43](https://doi.org/10.5771/0340-1758-2026-1-43)
 
-- \* **Hüttemann, Niclas** and Eric Linhart (2026).  
+\* **Hüttemann, Niclas** and Eric Linhart (2026).  
   *Lobbying for Corporate Due Diligence: Interest Group Positions on the German Supply Chain Act.*  
   _Journal of Civil Society_, 22(1), 71–85.
   [https://doi.org/10.1080/17448689.2025.2570314 ](https://doi.org/10.1080/17448689.2025.2570314 )
 
-- \* **Hüttemann, Niclas** and Eric Linhart (2025).  
+\* **Hüttemann, Niclas** and Eric Linhart (2025).  
   *Does Responsibility Matter in Domestic Discourses on Human Rights Due Diligence Legislation? Analyzing Interest Groups’ Discourse on Germany’s Supply Chain Act.*  
   _Journal of Human Rights_, 24(5), 591–608.  
   [https://doi.org/10.1080/14754835.2025.2561600 ](https://doi.org/10.1080/14754835.2025.2561600 )
 
-- **Hüttemann, Niclas** and Eric Linhart (2022).  
+**Hüttemann, Niclas** and Eric Linhart (2022).  
   Interessenvermittlung in den Ausschüssen des Deutschen Bundestages. Eine Erweiterung und Fortschreibung für die 18. Wahlperiode (2013 bis 2017).  
   _Zeitschrift für Parlamentsfragen_, 53(3), 507–526.  
   [https://doi.org/10.5771/0340-1758-2022-3-507 ](https://doi.org/10.5771/0340-1758-2022-3-507 )
 
 ## Book Reviews
-- **Hüttemann, Niclas** (2026).
+**Hüttemann, Niclas** (2026).
   *Müller, Melanie (2025): Die Geopolitik globaler Lieferketten* _Politische Vierteljahresschrift_, Online First.
-- **Hüttemann, Niclas** (2024).
+**Hüttemann, Niclas** (2024).
   *Gramsci, Antonio: Scritti (1910-1926): 1918.* _Zeitschrift für Politik_, 71(4), 559-561.
   
